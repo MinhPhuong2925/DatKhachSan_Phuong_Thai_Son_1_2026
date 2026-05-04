@@ -18,6 +18,8 @@ Chức năng: Tích hợp bộ công cụ quản lý khách hàng (Thêm/Xóa) n
 
  ## Chức Năng Các Màn Hình
 Home (Trang chủ): Giới thiệu thương hiệu khách sạn với hình ảnh minh họa từ Network.
+
 Content (Quản lý): Danh sách khách hàng thuê phòng, cho phép thêm mới hoặc xóa dữ liệu trực tiếp.
+
 About (Thông tin): Chi tiết về các thành viên thực hiện dự án.
 
